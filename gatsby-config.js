@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Dimension V2',
+    title: 'Zonaid',
     author: 'Zonaid Hossain',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    description: `Zonaid's portfolio`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
